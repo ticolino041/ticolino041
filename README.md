@@ -1,0 +1,4 @@
+- 👋 eu sou,@ticolino041
+- :+:meu email de contato e santana.costa.kauan@escola.pr.gov.br
+- 👀 estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendendo a programar recentemente javaScript e Scratch
